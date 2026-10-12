@@ -1,6 +1,6 @@
-# SIMONRA
+# SITARA
 
-SIMONRA adalah prototype aplikasi internal untuk monitoring notulen rapat, keputusan, dan tindak lanjut. Aplikasi ini terdiri dari frontend React + Tailwind dan backend FastAPI dengan SQLite untuk lingkungan demo lokal.
+SITARA adalah prototype aplikasi internal untuk monitoring notulen rapat, keputusan, dan tindak lanjut. Aplikasi ini terdiri dari frontend React + Tailwind dan backend FastAPI dengan SQLite untuk lingkungan demo lokal.
 
 ## Fitur utama
 - Login berbasis role
